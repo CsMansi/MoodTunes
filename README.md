@@ -59,7 +59,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 We hope you find the Application useful and look forward to your contributions. If you have any questions or need assistance, please reach out to us. Happy coding!
 
-_Made with ❤️ by [Gimnath Perera](https://github.com/Gimnath-Perera)_
 =======
 # MoodTunes
 >>>>>>> 04c1a4217ece421dbcaf91ee0646447646d6b41c
